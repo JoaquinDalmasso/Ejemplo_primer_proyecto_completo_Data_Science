@@ -1,0 +1,12 @@
+pandas
+import matplotlib.pyplot as plt
+from google.colab import drive
+drive.mount('/content/drive')
+%cd '/content/drive/MyDrive/Colab Notebooks/Data Science/Crear tus proyectos de Ciencia de Datos'
+nltk
+wordcloud
+sklearn
+gensim
+numpy
+scipy
+%cd '/content/drive/MyDrive/Colab Notebooks/Data Science/Crear tus proyectos de Ciencia de Datos'
